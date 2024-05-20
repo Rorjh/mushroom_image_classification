@@ -1,0 +1,1 @@
+demos/mushrooms/pretrained_vit_feature_extractor.pth filter=lfs diff=lfs merge=lfs -text
